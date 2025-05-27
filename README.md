@@ -42,25 +42,7 @@
 
 - 📧 pelcastrevargasz@gmail.com
 
----
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/zuleyma" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
-  </a>
-</p>
-
----
+-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuleyma&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
