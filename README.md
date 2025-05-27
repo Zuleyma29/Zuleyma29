@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Zuleyma Y</h1>
+<h1 align="center">¡Hola! 👋 Soy Zuleyma </h1>
 
 <p align="center">
-  Estudiante de Desarrollo de Software 💻 | Apasionada por el aprendizaje continuo 📚 | Explorando el mundo de la programación 🚀
+  Soy estudiante de Desarrollo de Software 💻 | Apasionada por el aprendizaje continuo 📚 | Explorando el mundo de la programación 🚀
 </p>
 
 ---
@@ -31,11 +31,9 @@
 
 ### 📫 Puedes contactarme
 
-- 📧 zuleyma@example.com *(pon tu correo real si quieres mostrarlo)*
-- 🌐 ¡Más redes próximamente!
-
+- 📧 pelcastrevargasz@gmail.com
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuleymaY&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuleyma&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
